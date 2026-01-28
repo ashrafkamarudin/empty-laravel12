@@ -1,1 +1,1 @@
-Empty Laravel 12 - 7
+Empty Laravel 12 - 8
